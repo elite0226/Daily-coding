@@ -7,13 +7,13 @@ All problems were asked by famous software companies like Microsoft, Google, Fac
 ### Problems and Solutions
 
 I just make one folder every day for daily coding and create one JS file and one MD file.
-- Problem 1
+- Day 1
 
     Solution.js
 
     Problem.md
   
-- Problem 2
+- Day 2
 
     Solution.js
 
