@@ -11,13 +11,13 @@ I just make one folder every day for daily coding and create one JS file and one
 
     Solution.js
 
-    Problem.md
+    README.md
   
 - Day 2
 
     Solution.js
 
-    Problem.md
+    README.md
 
 
 ...
